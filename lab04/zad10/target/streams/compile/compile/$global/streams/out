@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0m/home/adam/Desktop/jprog/lab04/zad10/src/main/scala/Main.scala:23:7: value ++ is not a member of Main.Pred[A][0m
+[0m[[0m[31merror[0m] [0m[0m    p ++ q[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/adam/Desktop/jprog/lab04/zad10/src/main/scala/Main.scala:42:14: not enough arguments for method and: (p: Main.Pred[A], q: Main.Pred[A])Main.Pred[A].[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter q.[0m
+[0m[[0m[31merror[0m] [0m[0m  println(and(a>b)(a>b))[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/home/adam/Desktop/jprog/lab07/zad22/src/main/scala/22.scala:6:13: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : scala.collection.immutable.Map[A,Seq[A]][0m
+[0m[[0m[31merror[0m] [0m[0m required: Map[A,Int][0m
+[0m[[0m[31merror[0m] [0m[0m    .groupBy(n => identity(n))[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

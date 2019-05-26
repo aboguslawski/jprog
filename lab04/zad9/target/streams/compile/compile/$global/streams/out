@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/adam/Desktop/jprog/lab04/zad9/src/main/scala/Main.scala:40:9: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : (A, A) => (Boolean, Boolean)[0m
+[0m[[0m[31merror[0m] [0m[0m required: Main.Pred[A][0m
+[0m[[0m[31merror[0m] [0m[0m    (which expands to)  A => Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m    prod(p,q)[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/adam/Desktop/jprog/lab03/zad5/src/main/scala/Main.scala:8:38: ')' expected but ':' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  def jestPalindromem(tab: Array[Int]: Boolean={[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/adam/Desktop/jprog/lab03/zad5/src/main/scala/Main.scala:18:3: ';' expected but 'if' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  if (jestPalindromem(tab) == true)[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

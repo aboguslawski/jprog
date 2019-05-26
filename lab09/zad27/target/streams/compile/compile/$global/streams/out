@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/adam/Desktop/jprog/lab09/zad27/src/main/scala/27.scala:9:26: value toInt is not a member of Iterator[String][0m
+[0m[[0m[31merror[0m] [0m[0m  case x => x.sliding(1).toInt.toList[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

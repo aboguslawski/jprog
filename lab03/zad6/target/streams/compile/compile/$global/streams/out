@@ -1,0 +1,25 @@
+[0m[[0m[31merror[0m] [0m[0m/home/adam/Desktop/jprog/lab03/zad6/src/main/scala/Main.scala:17:15: not found: value c[0m
+[0m[[0m[31merror[0m] [0m[0m    val seq = c(n)[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/adam/Desktop/jprog/lab03/zad6/src/main/scala/Main.scala:18:5: not found: value c[0m
+[0m[[0m[31merror[0m] [0m[0m    c(0) = c(1) = 1[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/adam/Desktop/jprog/lab03/zad6/src/main/scala/Main.scala:18:12: not found: value c[0m
+[0m[[0m[31merror[0m] [0m[0m    c(0) = c(1) = 1[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/adam/Desktop/jprog/lab03/zad6/src/main/scala/Main.scala:20:7: not found: value c[0m
+[0m[[0m[31merror[0m] [0m[0m      c(x) = c(x - 1) + c(x - 2)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/adam/Desktop/jprog/lab03/zad6/src/main/scala/Main.scala:20:14: not found: value c[0m
+[0m[[0m[31merror[0m] [0m[0m      c(x) = c(x - 1) + c(x - 2)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/adam/Desktop/jprog/lab03/zad6/src/main/scala/Main.scala:20:25: not found: value c[0m
+[0m[[0m[31merror[0m] [0m[0m      c(x) = c(x - 1) + c(x - 2)[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/adam/Desktop/jprog/lab03/zad6/src/main/scala/Main.scala:21:11: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m      if(x=n) c(x)[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/adam/Desktop/jprog/lab03/zad6/src/main/scala/Main.scala:21:15: not found: value c[0m
+[0m[[0m[31merror[0m] [0m[0m      if(x=n) c(x)[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m8 errors found[0m

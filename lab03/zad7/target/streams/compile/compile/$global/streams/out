@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/adam/Desktop/jprog/lab03/zad7/src/main/scala/Main.scala:24:60: ';' expected but ')' found.[0m
+[0m[[0m[31merror[0m] [0m[0m        rekTrojkat(kol+1, wier, x * (wier - kol + 1) / kol))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
